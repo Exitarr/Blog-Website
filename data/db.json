@@ -1,0 +1,34 @@
+{
+  "Posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "December 12, 2022 11:13:29 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa! fuck off"
+    },
+    {
+      "id": 3,
+      "title": "My third Post",
+      "datetime": "December 12, 2022 11:13:41 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 5,
+      "title": "My Fifth Post ",
+      "datetime": "December 12, 2022 11:13:11 PM",
+      "body": "New Post is added by me to the blog and add it to the database"
+    }
+  ]
+}
